@@ -1,0 +1,16 @@
+check,value
+rows_raw,28825
+exact_duplicates_removed,218
+rows_after_dedup,28607
+aired_from_unparseable,0
+aired_to_unparseable,0
+aired_to_before_aired_from,97
+duration_unparsed_to_null,814
+titles_with_score,18541
+titles_without_score,10066
+rank_equals_zero_left_as_is,479
+distinct_genres,22
+distinct_studios,1258
+fct_rows,28607
+bridge_genre_rows,48413
+bridge_studio_rows,30041
