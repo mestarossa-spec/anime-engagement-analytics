@@ -1,6 +1,6 @@
 # Anime Engagement Analytics
 
-An analytics project for exploring anime engagement data from Kaggle.
+An analytics project for exploring [anime engagement](https://www.kaggle.com/datasets/tanishksharma9905/top-popular-anime?resource=download) data from Kaggle.
 
 ## Project layout
 
